@@ -1,0 +1,37 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://taisun@github.com/taisun/myReactRepoSeed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taisun/myReactRepoSeed/issues"
+  },
+  "homepage": "https://github.com/taisun/myReactRepoSeed#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "browser-sync": "^2.13.0",
+    "browserify": "^13.0.1",
+    "cssnano": "^3.7.1",
+    "cssnext": "^1.8.4",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-cssnext": "^1.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-postcss": "^6.1.1",
+    "gulp-typescript": "^2.13.6",
+    "postcss-mixins": "^5.0.0",
+    "postcss-partial-import": "^2.0.0",
+    "precss": "^1.4.0",
+    "typescript": "^1.8.10",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

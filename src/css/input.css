@@ -1,0 +1,30 @@
+/* custom properties */
+/* http://dev.w3.org/csswg/css-variables/ */
+
+:root {
+  --primary-color: #E86100;
+  --secondary-color: #2c3e50;
+  --base-fontsize: 1rem;
+}
+
+.h1 {
+  color: var(--primary-color);
+}
+
+.h1:hover {
+  color: var(--secondary-color);
+}
+
+.body {
+  font-size: var(--base-fontsize);
+}
+
+/* prefix */
+
+.box {
+  display: flex;
+}
+
+.transform {
+  transition: scale(0.5);
+}
